@@ -1,9 +1,1 @@
-{
-  "mysql":
-    {
-      "userName": "123",
-      "password": "456",
-      "port": 3306,
-      "url": "localhost"
-    }
-}
+f8493e2593fcab1f8e157d4f7f06ed5c31b1821f1e8f32ed6f77c4e084d10e62775233c1db3cd3434f69d86dbfa8820233a91e753460692485338731d4f70ad83dc7e007132963dcdc137727060eb8d43dcf5b974a55ac5702b43828bb6d5840fca50b2c9e83cb5479f156f181934b6f
